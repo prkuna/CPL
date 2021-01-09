@@ -1,6 +1,6 @@
 # CPL
 Computer Programing Language
-```
+
 ### Terminology:
 - Python, Java, C++, PHP, Ruby, Basic, Perl, JavaScript, and many more are high-level language intended to be relatively straightforward for humans to read and write and for computers to read and process.
 - The actual hardware inside the Central Processing Unit (CPU) does not understand any of these high-level languages.
@@ -8,4 +8,4 @@ Computer Programing Language
 - Since machine language is tied to the computer hardware, machine language is not portable across different types of hardware. Programs written in high-level languages can be moved between different computers by using a different interpreter on the new machine or recompiling the code to create a machine language version of the program for the new machine.
 - These programming language translators fall into two general categories: (1) interpreters and (2) compilers.
 - It is not easy to read or write machine language, so it is nice that we have interpreters and compilers that allow us to write in high-level languages.
-```
+
